@@ -1,0 +1,24 @@
+{
+  "workbench.colorTheme": "Default Dark Modern",
+  "security.workspace.trust.untrustedFiles": "open",
+  "editor.inlineSuggest.enabled": true,
+  "[typescriptreact]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "files.autoSave": "onFocusChange",
+  "editor.stickyScroll.enabled": true,
+  "files.autoSaveDelay": 100,
+  "workbench.editor.untitled.hint": "hidden",
+  "terminal.explorerKind": "external",
+  "terminal.external.linuxExec": "iterm",
+  "terminal.external.osxExec": "iTerm.app",
+  "editor.defaultFormatter": "esbenp.prettier-vscode",
+  "editor.formatOnSave": true,
+  "explorer.confirmDragAndDrop": false,
+  "prettier.tabWidth": 2,
+  "editor.codeActionsOnSave": {
+    "source.fixAll.eslint": true
+  },
+  "eslint.rules.customizations": [{ "rule": "*", "severity": "warn" }],
+  "typescript.tsdk": "node_modules/typescript/lib"
+}
