@@ -28,9 +28,3 @@ abbr nbuild "npm run build"
 # exa commands
 abbr ll "exa -l -g --icons --git"
 abbr llt "exa -1 --icons --tree --git-ignore"
-
-
-# CHIPPER pipeline commands
-## card eval dataaset generate
-abbr eval_card_dataset "bazel run pipelines/offline/card_deactivation:eval_data"
-abbr eval_card_run "bazel run pipelines/offline/card_deactivation:run_evals"
