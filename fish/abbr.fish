@@ -17,6 +17,8 @@ abbr gp "git push origin"
 abbr gacp "git add . && git commit -m 'commit' && git push origin"
 # git checkout new branch
 abbr gcb "git checkout -b"
+# git checkout existing branch
+abbr gch "git checkout"
 
 # NPM commands
 abbr ni "npm install"
